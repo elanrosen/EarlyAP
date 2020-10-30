@@ -3,7 +3,7 @@
 The most popular AP® test score retrieval service, trusted by over seven hundred thousand AP® students. This service is in **no way** affiliated with or endorsed by the College Board®.
 
 ## About Early Scores
-Early Scores acts as a proxy to allow students to retrieve their scores on July 5th no matter where they are in the world. Retrieving scores poses a unique problem, as students must provide their username and password for the College Board® website in return for highly confidential information. Early Scores aims to make this process as fast and safe as possible, while scaling to support thousands of users simultaneously and providing accurate results. This problem is difficult to solve due to the unknown and uncontrollable variable of the College Board® and their website. 
+Early Scores acts as a proxy to allow students to retrieve their scores on July 5th no matter where they are in the world. Retrieving scores poses a unique problem, as students must provide their username and password for the College Board® website in return for highly confidential information. Early Scores aims to make this process as fast and safe as possible, while scaling to support thousands of users simultaneously and providing accurate results. This problem is difficult to solve due to the unknown and uncontrollable variable of the College Board® and their website. sds
 
 ## How does it work
 The following image explains the general flow of information for EarlyScores. The front end of the website is cached in Amazon CloudFront, which will handle all the users we hope to have. Below the image, there is a non-technical walkthrough of how the site works and is secure.
